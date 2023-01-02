@@ -64,7 +64,7 @@ class _DemoButtonsState extends State<DemoButtons> {
                     borderRadius: BorderRadius.circular(20),
                   ),
                 ),
-                child: Text('TextButton'),
+                child: const Text('TextButton'),
               ),
             ),
             Padding(
